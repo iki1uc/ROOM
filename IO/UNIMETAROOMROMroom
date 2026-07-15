@@ -1,0 +1,11 @@
+<META.SYSTEM>
+    <XARG>xarg</XARG>
+    <GHOST>ghost</GHOST>
+    <SINN>7sinn</SINN>
+
+    <STATE>active</STATE>
+    <SYNC>true</SYNC>
+
+    <PIPE>h1 → e3 → o6 → o9 → b12 → win∞</PIPE>
+    <CORE>o_meta</CORE>
+</META.SYSTEM>

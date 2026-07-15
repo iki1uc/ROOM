@@ -1,0 +1,16 @@
+<ROOM>
+    <ID>cpu</ID>
+    <TYPE>core</TYPE>
+    <MODE>raw</MODE>
+
+    <AXIS>x y z u v w</AXIS>
+    <ENERGIE>e2 e3 e6 e8 e12 e∞</ENERGIE>
+    <ORBIT>o1 o2 o3 o4 o5 o6 o7 o8 o9</ORBIT>
+
+    <MODULE>nano atom raw operator simu rev beat∞ win∞</MODULE>
+    <META>xarg ghost 7sinn</META>
+
+    <PIPE>h1 → e3 → o6 → o9 → b12 → win∞</PIPE>
+    <CORE>o_meta</CORE>
+</ROOM>
+
